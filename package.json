@@ -1,0 +1,17 @@
+{
+  "name": "@mggflow/money-sparks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/MoneySparks.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mggflow/sample-package.js.git"
+  },
+  "author": "Pavel Eliseev <deusagnis@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mggflow/sample-package.js/issues"
+  },
+  "homepage": "https://github.com/mggflow/sample-package.js#readme"
+}

@@ -1,0 +1,8 @@
+# Ignore IDEA directory
+.idea
+
+# Ignore packages directory
+vendor
+
+# Ignore Node modules directory
+node_modules
