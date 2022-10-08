@@ -6,3 +6,7 @@ vendor
 
 # Ignore Node modules directory
 node_modules
+
+# Ignore Images
+*.jpg
+*.png
